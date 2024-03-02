@@ -19,10 +19,10 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 ## 1.Multi-Modal Areas and Papers(研究领域与论文)
 
-- Mobile/Lightweight Deployment
+- Mitgating Hallucination
 - Embodied Intelligence
 - Continual Learning
-- Mitgating Hallucination
+- [Mobile/Lightweight Deployment](Mobile/Lightweight Deployment)
 
 
 
