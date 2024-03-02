@@ -1,5 +1,7 @@
 ## Multimodal Pre-training Datasets
 
+**#.X** represents the quantity of X, **#.T** represents the quantity of Text,and **#.X-T** represents the quantity of X-Text pairs, where X can be Image, Video, or Audio.
+
 |      Dataset Name      | X Modality  |           #.X            |  #.T  |       #.X-T       | Feat |
 | :--------------------: | :---------: | :----------------------: | :---: | :---------------: | :--: |
 |         ALIGN          |    Image    |           1.8B           | 1.8B  |       1.8B        |      |
@@ -48,11 +50,11 @@
 |        WaveCaps        |    Audio    |           403K           | 403K  |       403K        |      |
 |       VSDial-CN        | Image,Audio | 120K(Image), 1.2M(Audio) | 120K  |       1.2M        |      |
 
-**#.X** represents the quantity of X, **#.T** represents the quantity of Text,and **#.X-T** represents the quantity of X-Text pairs, where X can be Image, Video, or Audio.
-
 
 
 ## Multimodal Instruction Tuning Datasets
+
+I→ O: Input to Output Modalities, T: Text, I: Image, V: Video, A: Audio,B: Bounding box, 3D: Point Cloud, Tab: Table, and Web: Web page.
 
 | Dataset Name        | Type | I→O                            | Source                                                       | Method      | Multi-Turn | #.I/V/A        | #.Dialog Turn | #.Instance |
 | ------------------- | ---- | ------------------------------ | ------------------------------------------------------------ | ----------- | ---------- | -------------- | ------------- | ---------- |
@@ -85,5 +87,3 @@
 | RTVLM               | RLHF | I+T→TI+T→T                     | New question-image pairs based on publicly available images  or originally diffusion-generated images (Gallegos et al. 2023), | Auto.+Manu. | x          | –/–/–          | –             | 5K         |
 | VLGuard’s IT        | RLHF | I+T→TI+T→T                     | Source image data from various datasets                      | Auto.       | x          | 3K/–/–         | –             | 3K         |
 | MMViG               | RLHF | I+T→TI+T→T                     | MS-COCO                                                      | Manu.       | x          | 16K/–/–        | –             | 16K        |
-
-I→ O: Input to Output Modalities, T: Text, I: Image, V: Video, A: Audio,B: Bounding box, 3D: Point Cloud, Tab: Table, and Web: Web page.
