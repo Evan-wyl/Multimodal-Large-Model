@@ -1,10 +1,13 @@
 # Multi-Modal Large Model
 
-Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model
-
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
+**Widely used by top conferences and journals:**
+
+- Conferences: [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)]
+- Journals:
 
 ## 0.Survey(综述)
 
