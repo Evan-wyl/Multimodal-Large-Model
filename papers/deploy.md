@@ -1,5 +1,11 @@
 # VLM 
 
+### Survey
+
+[2023] [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863)
+
+
+
 ### Papers
 
 [2023] [MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices](https://arxiv.org/abs/2312.16886)
