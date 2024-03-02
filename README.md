@@ -6,8 +6,8 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 **Widely used by top conferences and journals:**
 
-- Conferences: [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)]
-- Journals:
+- Conferences: [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)] [[WACV](https://wacv2024.thecvf.com/)] [[EMNLP](https://aclanthology.org/venues/emnlp/)]
+- Journals: [[TACL](https://transacl.org/index.php/tacl)]
 
 ## 0.Survey(综述)
 
