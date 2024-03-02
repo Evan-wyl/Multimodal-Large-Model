@@ -42,3 +42,15 @@ Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm
 ## 4.Related Resource(相关资源)
 
 - [mm-llm](https://mm-llms.github.io/)
+
+
+
+## Contributing (欢迎参与贡献)
+
+If you are interested in contributing, please refer to [HERE](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/CONTRIBUTING.md) for instructions in contribution.
+
+------
+
+### Copyright notice
+
+> ***[Notes]This Github repo can be used by following the corresponding licenses. I want to emphasis that it may contain some PDFs or thesis, which were downloaded by me and can only be used for academic purposes. The copyrights of these materials are owned by corresponding publishers or organizations. All this are for better adademic research. If any of the authors or publishers have concerns, please contact me to delete or replace them.***
