@@ -32,7 +32,7 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 - Mitgating Hallucination
 - Embodied Intelligence
 - Continual Learning
-- [Mobile/Lightweight Deployment](Mobile/Lightweight Deployment)
+- [Mobile/Lightweight Deployment](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/papers/deploy.md)
 
 
 
