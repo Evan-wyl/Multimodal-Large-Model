@@ -1,6 +1,6 @@
 ## Multimodal Pre-training Datasets
 
-_X  Open represents whether the dataset is open source,#.X represents the quantity of X, #.T represents the quantity of Text,and #.X-T represents the quantity of X-Text pairs, where X can be Image, Video, or Audio_
+***X  Open represents whether the dataset is open source,#.X represents the quantity of X, #.T represents the quantity of Text,and #.X-T represents the quantity of X-Text pairs, where X can be Image, Video, or Audio***
 
 |                         Dataset Name                         | X Open | X Modality  |           #.X            |  #.T  |       #.X-T       |
 | :----------------------------------------------------------: | :----: | :---------: | :----------------------: | :---: | :---------------: |
