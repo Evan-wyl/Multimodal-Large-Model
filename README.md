@@ -11,7 +11,7 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 **Related Codes:**
 
-- LLM deployment tools: [[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)] [[LMDeploy](https://github.com/InternLM/lmdeploy)] [[llama.cpp](https://github.com/ggerganov/llama.cpp)]
+- LLM deployment tools: [[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)] [[LMDeploy](https://github.com/InternLM/lmdeploy)] [[llama.cpp](https://github.com/ggerganov/llama.cpp)] [[vllm](https://github.com/vllm-project/vllm)]
 
 
 
