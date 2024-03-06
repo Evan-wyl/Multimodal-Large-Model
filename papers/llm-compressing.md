@@ -1,5 +1,11 @@
 ## Large Model Compressing
 
+### Survey
+
+[2023] [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863)
+
+
+
 ### Quantization
 
 [2022] [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)
