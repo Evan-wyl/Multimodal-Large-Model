@@ -62,6 +62,7 @@ Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm
 ## 4.Related Resource(相关资源)
 
 - [mm-llm](https://mm-llms.github.io/)
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 
 
