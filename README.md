@@ -25,6 +25,8 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 [2023] [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.12320)
 
+[2023] [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
+
 [2024] [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model](https://arxiv.org/abs/2311.07594)
 
 [2024] [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
