@@ -40,6 +40,7 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 - Mitgating Hallucination
 - Embodied Intelligence
 - Continual Learning
+- Multi-Modal LLM for 3D Scene
 - [Mobile/Lightweight Deployment](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/papers/deploy.md)
 - [Large Language Model Compressing](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/papers/llm-compressing.md)
 
