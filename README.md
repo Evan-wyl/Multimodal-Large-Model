@@ -40,25 +40,25 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 - Mitgating Hallucination
 - Embodied Intelligence
 - Continual Learning
-- [Multi-Modal LLM for 3D Scene](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/papers/mmllm-3d.md)
-- [Mobile/Lightweight Deployment](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/papers/deploy.md)
-- [Large Language Model Compressing](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/papers/llm-compressing.md)
+- [Multi-Modal LLM for 3D Scene](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/papers/mmllm-3d.md)
+- [Mobile/Lightweight Deployment](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/papers/deploy.md)
+- [Large Language Model Compressing](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/papers/llm-compressing.md)
 
 
 
 ## 2.Code(代码)
 
-Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm/code) for the popular robot learning **code** results.
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/code) for the popular robot learning **code** results.
 
-[这里](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm/code)整理了相关代码。
+[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/code)整理了相关代码。
 
 
 
 ## 3.Datasets and Benchmarks(数据集与评测结果)
 
-Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm/data) for the popular multimodal large model **datasets and benchmark** results.
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/data) for the popular multimodal large model **datasets and benchmark** results.
 
-[这里](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm/data)整理了常用的公开数据集和一些已发表的文章在这些数据集上的实验结果。
+[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/data)整理了常用的公开数据集和一些已发表的文章在这些数据集上的实验结果。
 
 
 
@@ -71,7 +71,7 @@ Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm
 
 ## Contributing (欢迎参与贡献)
 
-If you are interested in contributing, please refer to [HERE](https://github.com/whaleRobot/Multimodal-Large-Model/blob/master/CONTRIBUTING.md) for instructions in contribution.
+If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/CONTRIBUTING.md) for instructions in contribution.
 
 ------
 
