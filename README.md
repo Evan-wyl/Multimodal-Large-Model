@@ -15,7 +15,7 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 
 
-## 0.Survey(综述)
+## 0.Survey
 
 | Papers                                                       | Recommendation Index                 |
 | ------------------------------------------------------------ | ------------------------------------ |
@@ -30,7 +30,7 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 
 
-## 1.Multi-Modal Areas and Papers(研究领域与论文)
+## 1.Multi-Modal Areas and Papers
 
 - Mitgating Hallucination
 - Embodied Intelligence
@@ -45,26 +45,28 @@ Papers, codes, datasets, applications, tutorials of Multi-Modal Large Model.
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/code) for the popular robot learning **code** results.
 
-[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/code)整理了相关代码。
 
 
-
-## 3.Datasets and Benchmarks(数据集与评测结果)
+## 3.Datasets and Benchmarks
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/data) for the popular multimodal large model **datasets and benchmark** results.
 
-[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/data)整理了常用的公开数据集和一些已发表的文章在这些数据集上的实验结果。
+
+
+## 4.Tasks
+
+- Description of Tasks for 3D Scene
 
 
 
-## 4.Related Resource(相关资源)
+## 5.Related Resource
 
 - [mm-llm](https://mm-llms.github.io/)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 
 
-## Contributing (欢迎参与贡献)
+## Contributing
 
 If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/CONTRIBUTING.md) for instructions in contribution.
 
