@@ -55,7 +55,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/d
 
 ## 4.Tasks
 
-- Description of Tasks for 3D Scene
+- [Description of Tasks for 3D Scene](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/tasks/3d.md)
 
 
 
