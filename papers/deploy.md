@@ -2,6 +2,8 @@
 
 ### Papers
 
+[2023] [MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory](https://arxiv.org/abs/2310.16898)
+
 [2023] [MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices](https://arxiv.org/abs/2312.16886)
 
 [2023] [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://arxiv.org/abs/2312.16862)
