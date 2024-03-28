@@ -67,7 +67,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/mm-lm/d
 
 
 
-## Contributing
+## 6.Contributing
 
 If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Multimodal-Large-Model/blob/master/CONTRIBUTING.md) for instructions in contribution.
 
